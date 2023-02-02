@@ -1,2 +1,2 @@
 # SoftUni-Projects
-Solutions, homeworks, exercises, projects i have made
+Solutions, homeworks, exercises, exams and projects i have done
